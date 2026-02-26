@@ -1,0 +1,9 @@
+secrets.json
+pg_data/*
+RMHD/*
+*.zip
+*.pt
+*.csv
+*.png
+.DS_Store
+__pycache__/*
